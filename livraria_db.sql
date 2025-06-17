@@ -1,5 +1,5 @@
 -- =============================================================================
--- Este script cria as tabelas e insere os dados de exemplo.
+-- Este script cria as tabelas e insere  dados para exemplo.
 -- Resolução Atividade checkout projeto integrador 2
 -- =============================================================================
 
